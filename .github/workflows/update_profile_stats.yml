@@ -4,7 +4,7 @@ name: Update profile SVGs
 on:
   schedule:
     # JST 06:00 → UTC 21:00
-    - cron: '0 21 * * *'
+    - cron: '0 21 * * 0'
   workflow_dispatch: {}
 
 concurrency:
