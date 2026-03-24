@@ -3,11 +3,14 @@
 
 <h2>👨‍💻 &nbsp;About Me</h2>
 
-- 🎓 I’m a Japanese student learning software development.
+- 🎓 I’m a Japanese programmer learning software development.
 
-- 💻 I'm currently working on Typescript and PHP projects.
+- 🌱 I graduated IT college this March and have accepted an offer to work as a Software Engineer this April.
 
-- 🌱 I’m graduating next year 2026 and have accepted an offer to work as a Software Engineer in Tokyo.
+<!-- TODO: Update in April -->
+<!-- - 🌱 I started working as a Software Engineer this April. -->
+<!-- - My strength is backend developement -->
+<!-- - 💻 I'm currently working on ... -->
 
 <!-- TODO: -->
 <!-- ## 🌱 Currently Exploring -->
