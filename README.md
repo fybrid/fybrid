@@ -5,7 +5,9 @@
 
 - 💻 I’m a Japanese programmer learning software development.
 
-- 🌱 I graduated IT college this March and started working as a Software Engineer this April.
+- 🎓 I graduated from an IT college this March.
+
+- 🧑🏻‍💻 This April, I started working as a software engineer in Tokyo.
 
 <!-- TODO: Update-->
 <!-- ## 🌱 Currently Exploring -->
