@@ -3,11 +3,11 @@
 
 <h2>👨‍💻 &nbsp;About Me</h2>
 
-- 💻 I’m a Japanese programmer learning software development.
+- 🇯🇵 I’m a Japanese programmer learning software development.
 
 - 🎓 I graduated from an IT college this March.
 
-- 🧑🏻‍💻 This April, I started working as a software engineer in Tokyo.
+- 💻 This April, I started working as a software engineer in Tokyo.
 
 <!-- TODO: Update-->
 <!-- ## 🌱 Currently Exploring -->
