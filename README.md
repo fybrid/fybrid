@@ -1,4 +1,3 @@
-
 <h1>Hi, I'm Fybrid! 👋</h2>
 
 <h2>👨‍💻 &nbsp;About Me</h2>
@@ -23,11 +22,11 @@
 
 <h3>✍🏻 &nbsp;Have Used or Learned<h3>
 
-![](https://skillicons.dev/icons?i=html,css,scss,js,typescript,nodejs,react,python,java,mysql)
+![](https://skillicons.dev/icons?i=html,css,scss,js,typescript,nodejs,react,python,java,mysql,jenkins)
 
 <h2>🛠️ &nbsp;Tools</h2>
 
-![](https://skillicons.dev/icons?i=windows,apple,ubuntu,vscode,docker,git,github,githubactions,postman,notion,discord,vercel,aws,supabase)
+![](https://skillicons.dev/icons?i=windows,apple,ubuntu,vscode,docker,git,github,githubactions,postman,notion,discord,vercel,aws,cloudflare,supabase)
 
 <h2>🔗 &nbsp;Links</h2>
 
